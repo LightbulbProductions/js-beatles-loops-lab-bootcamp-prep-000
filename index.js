@@ -1,3 +1,7 @@
 // add solution here
 const musicians = ["John Lennon", "Paul McCartney", "George Harrison", "Ringo Starr"];
     const instruments = ["Guitar", "Bass Guitar", "Lead Guitar", "Drums"];
+    
+  var johnLennonFacts, function(){
+    
+    }
